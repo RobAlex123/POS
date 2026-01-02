@@ -1,4 +1,4 @@
-package com.store.model;
+package com.store.pos.model;
 
 public class CartItem {
     private final Product product;

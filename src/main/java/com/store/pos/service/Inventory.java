@@ -1,6 +1,6 @@
-package com.store.service;
+package com.store.pos.service;
 
-import com.store.model.Product;
+import com.store.pos.model.Product;
 
 import java.io.*;
 import java.nio.file.*;

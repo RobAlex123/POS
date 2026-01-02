@@ -1,9 +1,9 @@
-package com.store.app;
+package com.store.pos.app;
 
-import com.store.model.CartItem;
-import com.store.model.Product;
-import com.store.service.Inventory;
-import com.store.service.ReceiptPrinter;
+import com.store.pos.model.CartItem;
+import com.store.pos.model.Product;
+import com.store.pos.service.Inventory;
+import com.store.pos.service.ReceiptPrinter;
 
 import java.io.IOException;
 import java.util.*;

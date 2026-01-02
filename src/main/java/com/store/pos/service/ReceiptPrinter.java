@@ -1,6 +1,6 @@
-package com.store.service;
+package com.store.pos.service;
 
-import com.store.model.CartItem;
+import com.store.pos.model.CartItem;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

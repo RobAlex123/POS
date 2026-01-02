@@ -1,4 +1,4 @@
-package com.store.model;
+package com.store.pos.model;
 
 import java.util.Objects;
 
